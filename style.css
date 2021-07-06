@@ -1,0 +1,27 @@
+body{
+    font-family: 'Bona Nova', serif;
+
+}
+.orange-color{
+    color: orange;
+}
+.first-banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato );
+    padding: 10px 20px;
+    font: 800;
+    color:white;
+    border-radius: 20px;
+    
+
+}
