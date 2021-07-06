@@ -1,5 +1,6 @@
 body{
     font-family: 'Bona Nova', serif;
+   
 
 }
 .orange-color{
@@ -7,6 +8,7 @@ body{
 }
 .first-banner{
     display: flex;
+    margin-bottom: 60px;
 }
 .half-width{
     width: 50%;
@@ -25,3 +27,7 @@ body{
     
 
 }
+.second-banner{
+    background-image: url(images/shapes/7.png);
+    display: flex;
+} 
