@@ -8,7 +8,7 @@ body{
 }
 .first-banner{
     display: flex;
-    margin-bottom: 60px;
+    
 }
 .half-width{
     width: 50%;
@@ -30,4 +30,29 @@ body{
 .second-banner{
     background-image: url(images/shapes/7.png);
     display: flex;
+   
 } 
+.centre{
+    text-align: center;
+}
+.bottom-margin{
+margin-bottom: 60px;
+}
+
+
+.item{
+    padding: 2% 2% 2% 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    
+   box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 30px;
+}
+.all-item img{
+  
+    width:100%;
+    
+}
+.all-item{
+    display: flex;
+}
